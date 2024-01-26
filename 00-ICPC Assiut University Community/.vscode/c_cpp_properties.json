@@ -1,0 +1,56 @@
+{
+  "configurations": [
+    {
+      "name": "windows-gcc-x86",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "intelliSenseMode": "windows-gcc-x86",
+      "cStandard": "${default}",
+      "cppStandard": "${default}",
+      "compilerPath": "C:/MinGW/bin/gcc.exe"
+    },
+    {
+      "name": "gcc",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "compilerPath": "C:/MinGW/bin/gcc.exe"
+    },
+    {
+      "name": "gcc",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "compilerPath": "C:/MinGW/bin/gcc.exe"
+    },
+    {
+      "name": "gcc",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "compilerPath": "C:/MinGW/bin/g++.exe"
+    }
+  ],
+  "version": 4
+}
