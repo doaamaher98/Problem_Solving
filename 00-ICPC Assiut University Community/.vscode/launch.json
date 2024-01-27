@@ -48,8 +48,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/HP/Downloads/GITHUB/00-PS/Problem_Solving/00-ICPC Assiut University Community/00-Sheet_1",
-      "program": "c:/Users/HP/Downloads/GITHUB/00-PS/Problem_Solving/00-ICPC Assiut University Community/00-Sheet_1/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
